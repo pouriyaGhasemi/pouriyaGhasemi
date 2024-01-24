@@ -2,7 +2,7 @@
 - 👀 I’m interested in Micro-services, DDD, Unit test, Docker and CQRS.
 - 🌱 I’m currently learning Angular and Event sourcing.
 
-- 📫  [https://www.linkedin.com/in/pouria-ghasemi-88b7048a/ ](https://www.linkedin.com/in/pouryia-ghasemi/)
+- 📫  [https://www.linkedin.com/in/pouria-ghasemi/ ](https://www.linkedin.com/in/pouryia-ghasemi/)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
